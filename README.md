@@ -15,7 +15,9 @@ A modern, beautifully designed full-stack mobile application for secure and fast
 
 | VPN Home | Server List | Activity | Settings |
 | :---: | :---: | :---: | :---: |
-| ![VPN](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/vpn.png?raw=true) | ![Server](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/server.png?raw=true) | ![Activity](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/activity.png?raw=true) | ![Setting](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/setting.png?raw=true) |
+| ![VPN](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/vpn.png?raw=true) | ![Server](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/server.png?raw=true) | ![Activity](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/activity.png?raw=true) | ![Setting](https://github.com/charithwannisingha/nexus-vpn-project-application/blob/main/screenshots/setting.png?raw=true)
+
+
 *(Note: Replace the placeholder image links with your actual screenshot paths)*
 
 ## 🛠️ Tech Stack & Packages
